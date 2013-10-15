@@ -1,0 +1,12 @@
+br _PyImport_LoadDynamicModule
+set args orig.py
+run
+c
+c
+c
+c
+c
+c
+c
+c
+c
